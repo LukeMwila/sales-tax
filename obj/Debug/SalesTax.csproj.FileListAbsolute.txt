@@ -1,0 +1,6 @@
+C:\Users\Dragonfly\Desktop\Problem2_SalesTax\SalesTax\SalesTax\obj\Debug\SalesTax.csprojResolveAssemblyReference.cache
+C:\Users\Dragonfly\Desktop\Problem2_SalesTax\SalesTax\SalesTax\bin\Debug\SalesTax.exe.config
+C:\Users\Dragonfly\Desktop\Problem2_SalesTax\SalesTax\SalesTax\bin\Debug\SalesTax.exe
+C:\Users\Dragonfly\Desktop\Problem2_SalesTax\SalesTax\SalesTax\bin\Debug\SalesTax.pdb
+C:\Users\Dragonfly\Desktop\Problem2_SalesTax\SalesTax\SalesTax\obj\Debug\SalesTax.exe
+C:\Users\Dragonfly\Desktop\Problem2_SalesTax\SalesTax\SalesTax\obj\Debug\SalesTax.pdb
